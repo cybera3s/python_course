@@ -1,20 +1,3 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
 # repository
 # git init
 # git status
@@ -32,3 +15,6 @@ if __name__ == '__main__':
 #
 # # branch
 # git branch -b <branch name>
+
+# go to Felan commit or Felan brnach
+# git checkout <id commit or brach name>
