@@ -26,4 +26,9 @@
 # push
 # git push origin master
 
+# git branch -l
+
+# git checkout -b <naw branch>
+# git branch <new branch name>
+
 # git clone <git repo url>
