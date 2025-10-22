@@ -24,3 +24,8 @@ if __name__ == '__main__':
 # modes
 # untracked
 # staged
+
+
+# git diff
+
+# git commit -am "meessage"
