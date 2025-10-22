@@ -32,3 +32,6 @@
 # git branch <new branch name>
 
 # git clone <git repo url>
+
+# git merge <branch name>
+
