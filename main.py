@@ -22,3 +22,6 @@
 # Remote
 # git remote -v: check remotes
 # git remote add <remote name> <remote utl>
+
+# push
+# git push origin master
