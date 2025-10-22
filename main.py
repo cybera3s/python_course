@@ -28,4 +28,7 @@ if __name__ == '__main__':
 
 # git diff
 
-# git commit -am "meessage"
+# git commit -am "meessage
+#
+# # branch
+# git branch -b <branch name>
