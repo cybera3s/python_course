@@ -18,6 +18,9 @@ if __name__ == '__main__':
 # repository
 # git init
 # git status
+# git add <file name>
+# git commit -m "message "
 
 # modes
 # untracked
+# staged
