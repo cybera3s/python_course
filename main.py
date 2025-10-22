@@ -18,3 +18,7 @@
 
 # go to Felan commit or Felan brnach
 # git checkout <id commit or brach name>
+
+# Remote
+# git remote -v: check remotes
+# git remote add <remote name> <remote utl>
