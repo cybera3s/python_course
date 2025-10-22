@@ -25,3 +25,5 @@
 
 # push
 # git push origin master
+
+# git clone <git repo url>
